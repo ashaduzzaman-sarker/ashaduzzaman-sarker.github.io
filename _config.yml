@@ -22,8 +22,8 @@ theme                    : jekyll-theme-minimal # Change the theme as per your p
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Ashad"
+  avatar           : "ashad.jpg"
+  name             : "Ashaduzzaman Sarker"
   # pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
   # location         : "Earth"
