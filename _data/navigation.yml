@@ -17,7 +17,7 @@ main:
     url: https://github.com/ashaduzzaman-sarker
 
   - title: "CV"
-    url: /cv/
+    # url: /cv/
     url: /files/Ashaduzzaman_(Resume).pdf
     
   # - title: "Talks"
