@@ -9,56 +9,90 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Ashaduzzaman Sarker
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<a href="path_to_your_resume/resume.pdf" download>
+  <button style="background-color:#4CAF50;color:white;padding:10px 20px;border:none;border-radius:5px;cursor:pointer;">
+    Download Resume (PDF)
+  </button>
+</a>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Career Objective
+I am passionate about Artificial Intelligence, Data Science, and Machine Learning, aiming to contribute to technological excellence and organizational growth. I seek challenging opportunities in innovative environments where I can apply my expertise to drive impactful solutions.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Academic Background
+**Bachelor of Science (BSc) in Electrical and Electronic Engineering**  
+*BRAC University, Dhaka, Bangladesh*  
+CGPA: 3.21/4.00 | Graduated: 2021  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Higher Secondary Certificate (HSC)**  
+*Cantonment Public School and College, Rangpur*  
+GPA: 5.00 (Golden A+) | Year: 2015  
+
+**Secondary School Certificate (SSC)**  
+*Sathibari ML High School, Rangpur*  
+GPA: 5.00 (Golden A+) | Year: 2013  
+
+## Experience
+**Research Assistant (Data Management)**  
+Centre for Entrepreneurship Development (CED), BRAC University  
+*(June 2022 – Present)*
+
+- Conducting research on Bangladesh's RMG industry, focusing on supply chain visibility, sustainability, and renewable energy.
+- Key Projects:
+  - [Mapping Export-oriented Factories Mapped in Bangladesh (MiB)](#)
+  - [Exploring Adoption of Renewable Energy Technology (RET) among Apparel Exporters](#)
+  - [Addressing Climate Change and Plastic Waste in Bangladesh’s Garment Industry](#)
+
+## Certifications
+- **Deep Learning Specialization** | *Certified by DeepLearning.AI & Coursera*  
+- **Machine Learning Specialization** | *Certified by Stanford Online & DeepLearning.AI*  
+- **IBM Data Science Specialization** | *Certified by IBM & Coursera*  
+- **TensorFlow Developer Specialization** | *Certified by DeepLearning.AI & Coursera*
+
+## Technical Skills
+
+**Data Science & Machine Learning:**
+- Data cleaning, visualization, and modeling using Python, Pandas, NumPy, Matplotlib, Seaborn.
+- Machine learning algorithms, time series forecasting (ARIMA, LSTM, Transformers).
+
+**Large Language Models (LLMs):**
+- Fine-tuning LLMs for text generation, summarization, and question answering using GPT, BERT, and T5.
+
+**Natural Language Processing (NLP):**
+- Experience in text classification, NER, and sequence-to-sequence modeling using Transformer-based models.
+
+**Computer Vision:**
+- Image classification, object detection, and segmentation with CNNs and Vision Transformers.
+
+**Multimodal Vision-Language Models (VLMs):**
+- Building models for tasks like visual question answering (VQA) and image captioning.
+
+**Tools & Technologies:**
+- TensorFlow, PyTorch, Hugging Face, Weights & Biases, Jupyter Notebooks, Git, SQL, MongoDB.
+
+## Projects
+- **NLP & LLMs Projects:** [GitHub](#)
+  - Text Sentiment Classification (IMDb, MRPC)
+  - Text Summarization with T5
+  - Named Entity Recognition (NER)
+- **Computer Vision Projects:** [GitHub](#)
+  - Image Classification with CNNs and Vision Transformers
+  - Object Detection with RetinaNet
+  - Image Segmentation with SAM & U-Net
+
+## Research Interests
+Computer Vision, Natural Language Processing (NLP), Large Language Models (LLMs), Generative AI
+
+## Academic Achievements
+- Talent Pool Scholarship in PSC and JSC Examinations
+- BRAC University Merit-Based Scholarship
+
+## Languages
+**BANGLA:** Native speaker | **ENGLISH:** Proficient
+
+## Professional Affiliations
+- **Research Intern**, R&D Laboratory, Department of EEE, BRAC University
+- **Digital Marketing Intern**, TEN’S 360-A Digital Marketing Agency
+- **Member**, IEEE BRAC University Student Branch
+- **Member**, Robotics Club of BRAC University
