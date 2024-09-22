@@ -5,9 +5,9 @@ author_profile: true
 redirect_from: 
   - /projects/
 ---
-# **Projects**
 
-## **Natural Language Processing (NLP) & Large Language Models (LLMs):**  
+
+## **Natural Language Processing (NLP) & Large Language Models (LLMs)**  
 
 **[Text Classification Projects](https://github.com/ashaduzzaman-sarker/Natural-Language-Processing-NLP/tree/main/0.%20Text%20Classification):**  
 
@@ -131,3 +131,26 @@ redirect_from:
 - Conducted text-prompted zero-shot object detection using PyTorch, leveraging natural language prompts to identify and classify objects without prior training on specific categories.
 
 - Implemented a zero-shot image classification model in PyTorch, demonstrating the ability to classify images into unseen categories using descriptive text prompts.
+
+
+## Multimodal-Vision-Language-Models
+
+**[Image Captioning](https://github.com/ashaduzzaman-sarker/Multimodal-Vision-Language-Models/tree/main/0.%20Image%20captioning):**
+
+- Fine-tuned the GIT image captioning model on the Pokémon BLIP dataset using PyTorch, focusing on generating accurate and contextually relevant captions for images in the dataset.
+
+**[Document Question Answering (DocVQA)](https://github.com/ashaduzzaman-sarker/Multimodal-Vision-Language-Models/tree/main/1.%20Document%20Question%20Answering%20(DocVQA)):**
+
+- Fine-tuned the LayoutLMv2 model for document question answering on the DocVQA dataset using PyTorch, enhancing the model's ability to understand and respond to questions based on document layout and content.
+
+**[Visual Question Answering (VQA)](https://github.com/ashaduzzaman-sarker/Multimodal-Vision-Language-Models/tree/main/2.%20Visual%20Question%20Answering%20(VQA)):**
+
+- Fine-tuned a Visual Question Answering (VQA) model, ViLT, on the Graphcore VQA dataset using PyTorch, improving the model's capability to answer questions about images by leveraging visual and textual information.
+
+**[Text-to-speech (TTS)](https://github.com/ashaduzzaman-sarker/Multimodal-Vision-Language-Models/tree/main/3.%20Text-to-speech%20(TTS)):**
+
+- Fine-tuned SpeechT5 for text-to-speech (TTS) tasks on the VoxPopuli dataset using PyTorch, enhancing the model's ability to generate natural and expressive speech from textual input.
+
+**[Image-text-to-text](https://github.com/ashaduzzaman-sarker/Multimodal-Vision-Language-Models/tree/main/4.%20Image-text-to-text):**
+
+- Fine-tuned SpeechT5 for text-to-speech (TTS) tasks on the VoxPopuli dataset using PyTorch, enhancing the model's ability to generate natural and expressive speech from textual input.
