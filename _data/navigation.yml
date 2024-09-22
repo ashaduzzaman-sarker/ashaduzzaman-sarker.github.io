@@ -5,15 +5,15 @@
 # prevent it from being included in the site.
 
 main:
-
   - title: "About Me"
     url: /about/
 
   - title: "Projects"
-    url: /projects/
+    # url: /projects/
+    url  : /https://github.com/ashaduzzaman-sarker?tab=repositories/
     
   - title: "Publications"
-    url: /publications/
+    # url: /publications/
     url: /https://scholar.google.com/citations?user=DuCQ8goAAAAJ&hl=en/
 
   - title: "CV"
@@ -25,7 +25,5 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
         
-
-    
   # - title: "Guide"
   #   url: /markdown/
