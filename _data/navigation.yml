@@ -10,14 +10,14 @@ main:
 
   - title: "Projects"
     # url: /projects/
-    url  : /https://github.com/ashaduzzaman-sarker?tab=repositories/
+    url: /https://github.com/ashaduzzaman-sarker?tab=repositories/
     
   - title: "Publications"
     # url: /publications/
-    url: /https://scholar.google.com/citations?user=DuCQ8goAAAAJ&hl=en/
+    url: /https://github.com/ashaduzzaman-sarker/
 
   - title: "CV"
-    url: /files/Ashaduzzaman_(Resume).pdf/
+    url: /files/Ashaduzzaman_(Resume).pdf
     
   # - title: "Talks"
   #   url: /talks/    
