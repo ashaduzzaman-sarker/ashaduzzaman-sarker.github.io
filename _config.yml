@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ashaduzzaman Sarker"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Ashaduzzaman Sarker"
 description              : &description "personal description"
-url                      : https://ashaduzzaman-sarker.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ashaduzzaman-sarker.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ashaduzzaman-sarker/ashaduzzaman-sarker.github.io"
 theme                    : jekyll-theme-minimal # Change the theme as per your preference
 
 # Site Author - The following control what appear as part of the author content on the side bar.
