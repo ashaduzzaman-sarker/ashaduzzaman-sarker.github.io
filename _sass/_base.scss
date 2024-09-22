@@ -279,54 +279,54 @@ svg:not(:root) {
  *  </nav>
  */
 
+nav {
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  /* override white-space for nested lists */
+  ul li,
+  ol li {
+    margin-bottom: 0;
+  }
+
+  li ul,
+  li ol {
+    margin-top: 0;
+  }
+}
+
+
 // nav {
-//   ul {
-//     margin: 0;
-//     padding: 0;
-//   }
-
-//   li {
-//     list-style: none;
-//   }
-
-//   a {
-//     text-decoration: none;
-//   }
-
-//   /* override white-space for nested lists */
-//   ul li,
-//   ol li {
-//     margin-bottom: 0;
-//   }
-
-//   li ul,
-//   li ol {
-//     margin-top: 0;
-//   }
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
 // }
 
+// nav ul {
+//   margin: 0;
+//   padding: 0;
+//   display: flex;
+//   list-style: none;
+// }
 
-nav {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+// nav li {
+//   margin: 0 15px; /* Add spacing between links */
+// }
 
-nav ul {
-  margin: 0;
-  padding: 0;
-  display: flex;
-  list-style: none;
-}
-
-nav li {
-  margin: 0 15px; /* Add spacing between links */
-}
-
-nav a {
-  text-decoration: none;
-  color: #000; /* You can adjust the color as needed */
-}
+// nav a {
+//   text-decoration: none;
+//   color: #000; /* You can adjust the color as needed */
+// }
 
 /*
    Global animation transition
