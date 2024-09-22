@@ -1,10 +1,10 @@
 ---
-permalink: /
+layout: archive
 title: "Education"
+permalink: /education/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /education/
-  - /education.html
 ---
 
 ## Academic Background
