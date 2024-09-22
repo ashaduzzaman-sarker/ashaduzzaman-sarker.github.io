@@ -6,10 +6,10 @@
 
 main:
   - title: "Education"
-    url: /portfolio/ 
+    url: /education/ 
     
   - title: "Projects"
-    url: /posts/
+    url: /projects/
     # url: https://github.com/ashaduzzaman-sarker?tab=repositories
     
   - title: "Publications"
