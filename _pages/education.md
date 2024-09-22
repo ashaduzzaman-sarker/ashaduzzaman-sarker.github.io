@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Education"
+author_profile: true
+redirect_from: 
+  - /education/
+  - /education.html
+---
+
 ## Academic Background
 
 **Bachelor of Science (BSc) in Electrical and Electronic Engineering**  
