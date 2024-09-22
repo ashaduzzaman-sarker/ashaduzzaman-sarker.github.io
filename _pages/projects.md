@@ -5,9 +5,9 @@ author_profile: true
 redirect_from: 
   - /projects/
 ---
-## **Projects**
-
-### **Natural Language Processing (NLP) & Large Language Models (LLMs):**  
+# **Projects**
+---
+## **Natural Language Processing (NLP) & Large Language Models (LLMs):**  
 
 **[Text Classification Projects](https://github.com/ashaduzzaman-sarker/Natural-Language-Processing-NLP/tree/main/0.%20Text%20Classification):**  
 
@@ -57,6 +57,7 @@ redirect_from:
 
 - Fine-tuned a BERT model for multiple-choice question answering on the SWAG dataset, focusing on predicting the most plausible continuation of a given context. Implemented data preprocessing and evaluation metrics to enhance model accuracy and robustness in understanding language semantics.
 
+---
 
 ## Computer Vision
 
