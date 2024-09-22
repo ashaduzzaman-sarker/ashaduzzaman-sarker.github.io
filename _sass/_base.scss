@@ -279,19 +279,6 @@ svg:not(:root) {
  *  </nav>
  */
 
-// nav {
-//   ul {
-//     margin: 0;
-//     padding: 0;
-//   }
-
-//   li {
-//     list-style: none;
-//   }
-
-//   a {
-//     text-decoration: none;
-//   }
 nav {
   ul {
     margin: 0;
@@ -300,17 +287,32 @@ nav {
 
   li {
     list-style: none;
+    margin-right: 20px;
   }
 
   a {
     text-decoration: none;
   }
+// nav {
+//   ul {
+//     margin: 0;
+//     padding: 0;
+//   }
 
-  /* Add margin to the "Home" link */
-  li:first-child a {
-    margin-right: 60px; /* Adjust the value as needed */
-  }
-}
+//   li {
+//     list-style: none;
+
+//   }
+
+//   a {
+//     text-decoration: none;
+//   }
+
+//   /* Add margin to the "Home" link */
+//   li:first-child a {
+//     margin-right: 60px; /* Adjust the value as needed */
+//   }
+// }
 
 
   /* override white-space for nested lists */
