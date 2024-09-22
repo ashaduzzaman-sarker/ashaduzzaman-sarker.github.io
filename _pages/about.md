@@ -89,4 +89,3 @@ Key projects include:
 **Data Science:**  
 - Data cleaning, transformation, exploration, and visualization using Python (Pandas, NumPy, Matplotlib).  
 - Skilled in statistical analysis, machine learning algorithms (Logistic Regression, Decision Trees, etc.), and time series forecasting (ARIMA, LSTM, Transformer models).
-
