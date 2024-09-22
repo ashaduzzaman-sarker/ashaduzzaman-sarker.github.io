@@ -9,7 +9,7 @@ redirect_from:
 
 ## **Natural Language Processing (NLP) & Large Language Models (LLMs)**  
 
-**[Text Classification Projects](https://github.com/ashaduzzaman-sarker/Natural-Language-Processing-NLP/tree/main/0.%20Text%20Classification):**  
+**[Text Classification](https://github.com/ashaduzzaman-sarker/Natural-Language-Processing-NLP/tree/main/0.%20Text%20Classification):**  
 
 - Fine-tuned **BERT-base-cased** model on the **MRPC** dataset to classify paraphrase pairs, improving model accuracy for text similarity tasks.
 
