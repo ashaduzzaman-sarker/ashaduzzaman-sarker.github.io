@@ -9,7 +9,7 @@ main:
     url: /portfolio/ 
     
   - title: "Projects"
-    url: /projects/
+    url: /posts/
     # url: https://github.com/ashaduzzaman-sarker?tab=repositories
     
   - title: "Publications"
