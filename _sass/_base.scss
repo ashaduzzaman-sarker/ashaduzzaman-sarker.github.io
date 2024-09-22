@@ -279,20 +279,6 @@ svg:not(:root) {
  *  </nav>
  */
 
-nav {
-  ul {
-    margin: 0;
-    padding: 0;
-  }
-
-  li {
-    list-style: none;
-    margin-right: 20px;
-  }
-
-  a {
-    text-decoration: none;
-  }
 // nav {
 //   ul {
 //     margin: 0;
@@ -301,30 +287,45 @@ nav {
 
 //   li {
 //     list-style: none;
-
 //   }
 
 //   a {
 //     text-decoration: none;
 //   }
 
-//   /* Add margin to the "Home" link */
-//   li:first-child a {
-//     margin-right: 60px; /* Adjust the value as needed */
+//   /* override white-space for nested lists */
+//   ul li,
+//   ol li {
+//     margin-bottom: 0;
+//   }
+
+//   li ul,
+//   li ol {
+//     margin-top: 0;
 //   }
 // }
 
 
-  /* override white-space for nested lists */
-  ul li,
-  ol li {
-    margin-bottom: 0;
-  }
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
-  li ul,
-  li ol {
-    margin-top: 0;
-  }
+nav ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  list-style: none;
+}
+
+nav li {
+  margin: 0 15px; /* Add spacing between links */
+}
+
+nav a {
+  text-decoration: none;
+  color: #000; /* You can adjust the color as needed */
 }
 
 /*
