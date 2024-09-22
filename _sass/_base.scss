@@ -279,6 +279,19 @@ svg:not(:root) {
  *  </nav>
  */
 
+// nav {
+//   ul {
+//     margin: 0;
+//     padding: 0;
+//   }
+
+//   li {
+//     list-style: none;
+//   }
+
+//   a {
+//     text-decoration: none;
+//   }
 nav {
   ul {
     margin: 0;
@@ -287,11 +300,21 @@ nav {
 
   li {
     list-style: none;
+    display: inline; // Add this if you want list items to display horizontally
+    margin-right: 15px; // Optional spacing between items
   }
 
   a {
     text-decoration: none;
+    color: #000; // Change this to your desired color
+    padding: 5px 10px; // Optional padding for better click area
+    transition: color 0.3s; // Smooth transition for hover effect
+
+    &:hover {
+      color: #007bff; // Change to your desired hover color
+    }
   }
+}
 
   /* override white-space for nested lists */
   ul li,
