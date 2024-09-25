@@ -8,8 +8,8 @@ main:
   # - title: "Education"
     # url: /education/ 
     
-  - title: "About Me"
-    url: /about/
+  # - title: "About Me"
+  #   url: /about/
   
   - title: "Projects"
     url: /projects/
@@ -24,8 +24,8 @@ main:
     url: /files/Ashaduzzaman_(Resume).pdf
 
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Contact"
+    url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
