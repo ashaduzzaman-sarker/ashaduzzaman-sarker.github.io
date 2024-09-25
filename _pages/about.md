@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello! I’m Ashad.
+Hello! This is Ashad...
 
 I am a passionate and technically skilled professional with a strong foundation in Artificial Intelligence, Data Science, and Machine Learning. My goal is to leverage my expertise in Large Language Models, Natural Language Processing, Computer Vision, and Multimodal Vision-Language Models to drive impactful solutions in the research field.
 
@@ -29,13 +29,13 @@ Conducted research on Bangladesh's RMG industry, focusing on supply chain visibi
 Key projects include:
 - _Mapping export-oriented factories in Bangladesh (MiB)_ – [Link](https://ced.bracu.ac.bd/mib-2/) [Map](https://mappedinbangladesh.org/)
 - _Exploring Adoption of Renewable Energy Technology (RET) among Apparel Exporters_ – [Link](https://ced.bracu.ac.bd/ret/)
-- _ Addressing Climate Change and Plastic Waste in Bangladesh's Garment Industry_ – [Link](https://ced.bracu.ac.bd/accpw/)
+- _Addressing Climate Change and Plastic Waste in Bangladesh's Garment Industry_ – [Link](https://ced.bracu.ac.bd/accpw/)
 
 
 ## **Certifications**
 
 ### **IBM AI Engineering Specialization**  
-*[Certified by IBM](https://coursera.org/share/9a5b062434cea27c048ca901536426b9)*  
+*[Certified by IBM & Coursera](https://coursera.org/share/9a5b062434cea27c048ca901536426b9)*  
 - Mastered machine learning, deep learning, neural networks, and key ML algorithms including classification, regression, clustering, and dimensional reduction.
 - Implemented supervised and unsupervised models using SciPy and Scikit-Learn.
 - Deployed machine learning algorithms and pipelines on Apache Spark.
@@ -61,7 +61,7 @@ Machine Learning, Deep Learning, Artificial Neural Networks, Machine Learning Al
 - Developed decision trees and ensemble methods, employing best practices for model development.
 - Built recommender systems using collaborative filtering and deep reinforcement learning techniques.
 
-_**Skills Gained:** _
+_**Skills Gained:**_
 Machine Learning, Machine Learning Algorithms, Applied Machine Learning, Deep Learning, Artificial Neural Networks, Human Learning, Python Programming, Regression, Mathematics, Critical Thinking, and Network Modeling.
 
 
@@ -85,7 +85,7 @@ Machine Learning, Deep Learning, Machine Learning Algorithms, Artificial Neural 
 
 
 ## **Research Interest**
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Computer Vision
-- Vision Language Models (VLMs)
+- *Natural Language Processing (NLP)*
+- *Large Language Models (LLMs)*
+- *Computer Vision*
+- *Vision Language Models (VLMs)*
