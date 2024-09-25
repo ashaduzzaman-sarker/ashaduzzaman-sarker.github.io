@@ -15,10 +15,10 @@ I am a passionate and technically skilled professional with a strong foundation 
 ## **Academic Background**
 
 **Bachelor of Science (BSc) in Electrical and Electronic Engineering**  
-*BRAC University, Dhaka, Bangladesh* | Year: 2021    
+*BRAC University, Dhaka, Bangladesh | Year: 2021*    
 
 **Higher Secondary Certificate (HSC)**  
-*Cantonment Public School and College, Rangpur* | Year: 2014   
+*Cantonment Public School and College, Rangpur | Year: 2014*   
 
 ## **Experience**
 
