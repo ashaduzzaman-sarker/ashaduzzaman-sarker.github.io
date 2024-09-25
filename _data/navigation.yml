@@ -24,8 +24,8 @@ main:
     url: /files/Ashaduzzaman_(Resume).pdf
 
 
-  - title: "Contact"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
