@@ -20,7 +20,7 @@ redirect_from:
 
 - Implemented token classification and named entity recognition (NER) on the **CoNLL-2003** dataset using PyTorch, focusing on accurately identifying and classifying named entities in text.
 
-- Developed a token classification model for named entity recognition on the** WNUT dataset**, enhancing the ability to detect and classify emerging and less common entities in diverse text.
+- Developed a token classification model for named entity recognition on the **WNUT dataset**, enhancing the ability to detect and classify emerging and less common entities in diverse text.
 
 
 **[Masked Language Modeling (MLM)](https://github.com/ashaduzzaman-sarker/Natural-Language-Processing-NLP/tree/main/2.%20Masked%20language%20modeling):**
@@ -33,7 +33,7 @@ redirect_from:
 
 - Fine-tuned a **Marian transformer** model on the **KDE4 dataset** for machine translation tasks, focusing on generating accurate translations between different language pairs. Applied data preprocessing and optimized training for efficient translation performance.
 
-- Developed and fine-tuned a T5 model on the OPUS dataset to perform sequence-to-sequence machine translation. Enhanced the model’s ability to translate multilingual text and evaluated its accuracy and efficiency using advanced techniques in PyTorch.
+- Developed and fine-tuned a **T5** model on the **OPUS** dataset to perform sequence-to-sequence machine translation. Enhanced the model’s ability to translate multilingual text and evaluated its accuracy and efficiency using advanced techniques in PyTorch.
 
 **[Text Summarization](https://github.com/ashaduzzaman-sarker/Natural-Language-Processing-NLP/tree/main/4.%20Summarization):**
 
@@ -130,7 +130,7 @@ redirect_from:
 
 - Conducted **text-prompted zero-shot object detection** using PyTorch, leveraging natural language prompts to identify and classify objects without prior training on specific categories.
 
-- Implemented a** zero-shot image classification** model in PyTorch, demonstrating the ability to classify images into unseen categories using descriptive text prompts.
+- Implemented a **zero-shot image classification** model in PyTorch, demonstrating the ability to classify images into unseen categories using descriptive text prompts.
 
 
 ## Multimodal-Vision-Language-Models
