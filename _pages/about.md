@@ -21,14 +21,15 @@ I am a passionate and technically skilled professional with a strong foundation 
 *Cantonment Public School and College, Rangpur* | Year: 2014   
 
 ## **Experience**
+
 **Research Assistant**  
 BRAC University  
 
 Conducted research on Bangladesh's RMG industry, focusing on supply chain visibility, ESG indices, sustainability practices, and renewable energy adoption.  
 Key projects include:
-- Mapping export-oriented factories in Bangladesh (MiB) – [Link](https://ced.bracu.ac.bd/mib-2/) [Map](https://mappedinbangladesh.org/)
-- Exploring Adoption of Renewable Energy Technology (RET) among Apparel Exporters – [Link](https://ced.bracu.ac.bd/ret/)
-- Addressing Climate Change and Plastic Waste in Bangladesh's Garment Industry – [Link](https://ced.bracu.ac.bd/accpw/)
+- _Mapping export-oriented factories in Bangladesh (MiB)_ – [Link](https://ced.bracu.ac.bd/mib-2/) [Map](https://mappedinbangladesh.org/)
+- _Exploring Adoption of Renewable Energy Technology (RET) among Apparel Exporters_ – [Link](https://ced.bracu.ac.bd/ret/)
+- _ Addressing Climate Change and Plastic Waste in Bangladesh's Garment Industry_ – [Link](https://ced.bracu.ac.bd/accpw/)
 
 
 ## **Certifications**
@@ -40,7 +41,7 @@ Key projects include:
 - Deployed machine learning algorithms and pipelines on Apache Spark.
 - Built deep learning models with Keras, PyTorch, and TensorFlow for various applications.
 
-**Skills Gained:**
+_**Skills Gained:**_
 Machine Learning, Deep Learning, Neural Networks, Python Programming, Computer Vision, Applied ML, ML Algorithms, Regression, Mathematical Analysis.
 
 
@@ -50,7 +51,7 @@ Machine Learning, Deep Learning, Neural Networks, Python Programming, Computer V
 - Developed CNNs for detection and recognition tasks, utilizing neural style transfer for creative image generation.
 - Constructed RNNs and applied NLP techniques using Hugging Face transformers for Named Entity Recognition and Question Answering.
 
-**Skills Gained:**
+_**Skills Gained:**_
 Machine Learning, Deep Learning, Artificial Neural Networks, Machine Learning Algorithms, Applied ML, Python Programming, Network Modeling, Computer Vision, Network Architecture, and Human Learning.
 
 
@@ -60,7 +61,7 @@ Machine Learning, Deep Learning, Artificial Neural Networks, Machine Learning Al
 - Developed decision trees and ensemble methods, employing best practices for model development.
 - Built recommender systems using collaborative filtering and deep reinforcement learning techniques.
 
-**Skills Gained:** 
+_**Skills Gained:** _
 Machine Learning, Machine Learning Algorithms, Applied Machine Learning, Deep Learning, Artificial Neural Networks, Human Learning, Python Programming, Regression, Mathematics, Critical Thinking, and Network Modeling.
 
 
@@ -70,7 +71,7 @@ Machine Learning, Machine Learning Algorithms, Applied Machine Learning, Deep Le
 - Executed data importing, cleaning, analysis, and visualization, creating machine learning models and pipelines.
 - Completed real-world projects, building a portfolio to demonstrate proficiency to potential employers.
 
-**Skills Gained:**
+_**Skills Gained:**_
 Data Mining, Deep Learning, Machine Learning, SQL Database Administration, Python Programming, Statistical Modeling, Data Quality, Big Data, Web Applications, RStudio, Jupyter Notebooks, GitHub, Analytical Skills, Problem Solving, Communication, Solution-oriented approach, Datasets, Methodology, Scripting, Generative AI, Data Science
 
 
@@ -79,7 +80,7 @@ Data Mining, Deep Learning, Machine Learning, SQL Database Administration, Pytho
 - Mastered TensorFlow to train neural networks for computer vision applications, implementing strategies to prevent overfitting.
 - Developed natural language processing systems and trained RNNs, GRUs, and LSTMs using text data.
 
-**Skills Gained:**
+_**Skills Gained:**_
 Machine Learning, Deep Learning, Machine Learning Algorithms, Artificial Neural Networks, Applied Machine Learning, Human Learning, Computer Programming, Python Programming, Computer Vision, Network Models, Data Visualization.
 
 
