@@ -6,22 +6,23 @@
 
 main:
   # - title: "Education"
-  #   url: /education/ 
+    # url: /education/ 
     
+  - title: "About Me"
+    url: /about/
+  
   - title: "Projects"
     url: /projects/
     # url: https://github.com/ashaduzzaman-sarker?tab=repositories
     
-  - title: "Publications"
-    # url: /publications/
-    url: https://github.com/ashaduzzaman-sarker
+  # - title: "Publications"
+  #   # url: /publications/
+  #   url: https://github.com/ashaduzzaman-sarker
 
   - title: "CV"
     # url: /cv/
     url: /files/Ashaduzzaman_(Resume).pdf
 
-  # - title: "About Me"
-  #   url: /about/
 
   # - title: "Talks"
   #   url: /talks/    
