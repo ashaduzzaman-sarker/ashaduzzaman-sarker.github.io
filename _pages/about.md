@@ -15,10 +15,10 @@ I am a passionate and technically skilled professional with a strong foundation 
 ## **Academic Background**
 
 **Bachelor of Science (BSc) in Electrical and Electronic Engineering**  
-*BRAC University, Dhaka, Bangladesh | Year: 2021*    
+BRAC University, Dhaka, Bangladesh | Year: 2021   
 
 **Higher Secondary Certificate (HSC)**  
-*Cantonment Public School and College, Rangpur | Year: 2014*   
+Cantonment Public School and College, Rangpur, Bangladesh | Year: 2014   
 
 ## **Experience**
 
@@ -26,7 +26,7 @@ I am a passionate and technically skilled professional with a strong foundation 
 BRAC University  
 
 Conducted research on Bangladesh's RMG industry, focusing on supply chain visibility, ESG indices, sustainability practices, and renewable energy adoption.  
-Key projects include:
+**Key projects include:**
 - _Mapping export-oriented factories in Bangladesh (MiB)_ – [Link](https://ced.bracu.ac.bd/mib-2/) [Map](https://mappedinbangladesh.org/)
 - _Exploring Adoption of Renewable Energy Technology (RET) among Apparel Exporters_ – [Link](https://ced.bracu.ac.bd/ret/)
 - _Addressing Climate Change and Plastic Waste in Bangladesh's Garment Industry_ – [Link](https://ced.bracu.ac.bd/accpw/)
