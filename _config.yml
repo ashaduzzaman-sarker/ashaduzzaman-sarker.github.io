@@ -31,10 +31,10 @@ author:
   email            : "ashaduzzaman.sarker@bracu.ac.bd" 
   linkedin         : "md-ashaduzzaman-sarker-65b607264"
   github           : "ashaduzzaman-sarker"
-  # huggingface      : "https://huggingface.co/ashaduzzaman"
+
   # kaggle           : "ashaduzzamanpiash"
   # twitter          : "@ashad2505"
-  huggingface      : "ashaduzzaman" # Hugging Face profile
+  # huggingface      : "ashaduzzaman" # Hugging Face profile
   
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
@@ -49,7 +49,8 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-  wandb              : "wandb.ai/ashaduzzaman2505" 
+  wandb              : "https://wandb.ai/ashaduzzaman2505"
+  huggingface        : "https://huggingface.co/ashaduzzaman"
   # github           : "ashaduzzaman-sarker"
   # kaggle           : "ashaduzzamanpiash"
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
