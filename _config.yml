@@ -35,7 +35,7 @@ author:
   # kaggle           : "ashaduzzamanpiash"
   # twitter          : "@ashad2505"
   huggingface      : "ashaduzzaman" # Hugging Face profile
-  wandb            : "ashaduzzaman2505" 
+  
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
   # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
@@ -49,6 +49,7 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
+  wandb              : "wandb.ai/ashaduzzaman2505" 
   # github           : "ashaduzzaman-sarker"
   # kaggle           : "ashaduzzamanpiash"
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
