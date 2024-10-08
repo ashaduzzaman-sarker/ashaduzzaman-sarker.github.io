@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! This is Ashad...
 
-I am a passionate and technically skilled professional with a strong foundation in Artificial Intelligence, Data Science, and Machine Learning. My goal is to leverage my expertise in Large Language Models, Natural Language Processing, Computer Vision, and Multimodal Vision-Language Models to drive impactful solutions in the research field.
+I am a passionate and technically skilled professional with a strong foundation in Artificial Intelligence, Data Science, and Machine Learning. My goal is to leverage my expertise in Large Language Models, Generative AI, Natural Language Processing, Computer Vision, and Multimodal Vision-Language Models to drive impactful solutions in the Artificial Intelligence research & application field.
 
 ## **Academic Background**
 
@@ -31,6 +31,8 @@ Key projects include:
 - _Exploring Adoption of Renewable Energy Technology (RET) among Apparel Exporters_ – [Link](https://ced.bracu.ac.bd/ret/)
 - _Addressing Climate Change and Plastic Waste in Bangladesh's Garment Industry_ – [Link](https://ced.bracu.ac.bd/accpw/)
 
+## **Research Interest**
+**Large Language Models (LLMs)** | **Natural Language Processing (NLP)** | **Generative AI** | **Computer Vision** | **Vision Language Models (VLMs)** 
 
 ## **Certifications**
 
@@ -44,6 +46,19 @@ Key projects include:
 _**Skills Gained:**_
 Machine Learning, Deep Learning, Neural Networks, Python Programming, Computer Vision, Applied ML, ML Algorithms, Regression, Mathematical Analysis.
 
+### Building LLM-Powered Applications
+*[Certified by Weights & Biases](https://www.credential.net/b847895f-127b-4b90-8358-ab1e6ded3384#gs.gdcbxe)*
+- Build LLM-powered applications with entire process of designing, experimenting, evaluating and deploying LLM-based apps using LLM APIs, LangChain and W&B Prompts.
+
+_**Skills Gained:**_
+MLOps, Weights & Biases, Large Language Models, LangChain, Prompt Engineering
+
+### **Training and Fine-tuning Large Language Models (LLMs)**
+*[Certified by Weights & Biases](https://www.credential.net/bb05fbdd-0f39-4fba-80f0-89567c2a8b56#gs.gdeoqn)*
+- Gained hands-on experience in building, training and fine-tuning Large Language Models (LLMs) from scratch to enhancing their performance.
+
+_**Skills Gained:**_
+MLOps, Weights & Biases, Large Language Models (LLMs), LLM Training, Fine-tuning LLMs, LoRA (Low-Rank Adaptation)
 
 ### **Deep Learning Specialization**  
 *[Certified by DeepLearning.AI & Coursera](https://www.coursera.org/account/accomplishments/specialization/JJ8ETJR5US5B)*  
@@ -84,8 +99,3 @@ _**Skills Gained:**_
 Machine Learning, Deep Learning, Machine Learning Algorithms, Artificial Neural Networks, Applied Machine Learning, Human Learning, Computer Programming, Python Programming, Computer Vision, Network Models, Data Visualization.
 
 
-## **Research Interest**
-- *Natural Language Processing (NLP)*
-- *Large Language Models (LLMs)*
-- *Computer Vision*
-- *Vision Language Models (VLMs)*
