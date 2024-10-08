@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 
-Hello!
-
-I’m a dedicated and technically adept professional with a deep passion for Artificial Intelligence, Data Science, and Machine Learning. My expertise spans Large Language Models (LLMs), Generative AI, Natural Language Processing (NLP), Computer Vision, and Multimodal Vision-Language Models. I aim to apply my skills to create innovative and impactful solutions in AI research and real-world applications.
+Hello! I’m Ashaduzzman Sarker, a dedicated and technically adept professional with a deep passion for Artificial Intelligence, Data Science, and Machine Learning. My expertise spans Large Language Models (LLMs), Generative AI, Natural Language Processing (NLP), Computer Vision, and Multimodal Vision-Language Models. I aim to apply my skills to create innovative and impactful solutions in AI research and real-world applications.
 
 
 ## **Academic Background**
