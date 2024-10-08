@@ -9,12 +9,10 @@ redirect_from:
 
 
 **Hello! I’m Ashaduzzaman Sarker**,
-
 a dedicated and technically adept professional with a deep passion for Artificial Intelligence, Data Science, and Machine Learning. My expertise spans Large Language Models (LLMs), Generative AI, Natural Language Processing (NLP), Computer Vision, and Multimodal Vision-Language Models. I aim to apply my skills to create innovative and impactful solutions in AI research and real-world applications.
 
 
 ## **Academic Background**
-
 **Bachelor of Science (BSc) in Electrical and Electronic Engineering**  
 BRAC University, Dhaka, Bangladesh | Year: 2021   
 
@@ -22,11 +20,10 @@ BRAC University, Dhaka, Bangladesh | Year: 2021
 Cantonment Public School and College, Rangpur, Bangladesh | Year: 2014   
 
 ## **Experience**
-
 **Research Assistant**  
-BRAC University  
+BRAC University
+- Conducted research on Bangladesh's RMG industry, focusing on supply chain visibility, ESG indices, sustainability practices, and renewable energy adoption.  
 
-Conducted research on Bangladesh's RMG industry, focusing on supply chain visibility, ESG indices, sustainability practices, and renewable energy adoption.  
 **Key projects include:**
 - _Mapping export-oriented factories in Bangladesh (MiB)_ – [Link](https://ced.bracu.ac.bd/mib-2/) [Map](https://mappedinbangladesh.org/)
 - _Exploring Adoption of Renewable Energy Technology (RET) among Apparel Exporters_ – [Link](https://ced.bracu.ac.bd/ret/)
@@ -36,7 +33,6 @@ Conducted research on Bangladesh's RMG industry, focusing on supply chain visibi
 Large Language Models (LLMs) | Natural Language Processing (NLP) | Generative AI | Computer Vision | Vision Language Models (VLMs) 
 
 ## **Certifications**
-
 ### **IBM AI Engineering Specialization**  
 *[Certified by **IBM & Coursera**](https://coursera.org/share/9a5b062434cea27c048ca901536426b9)*  
 - Mastered machine learning, deep learning, neural networks, and key ML algorithms including classification, regression, clustering, and dimensional reduction.
