@@ -11,13 +11,6 @@ redirect_from:
 Hello! I’m **Ashaduzzaman**, a dedicated and technically adept professional with a deep passion for Artificial Intelligence, Data Science, and Machine Learning. My expertise spans Large Language Models (LLMs), Generative AI, Natural Language Processing (NLP), Computer Vision, and Multimodal Vision-Language Models. I aim to apply my skills to create innovative and impactful solutions in AI/ML research and real-world applications.
 
 
-## **Academic Background**
-**Bachelor of Science (BSc) in Electrical and Electronic Engineering**  
-BRAC University, Dhaka, Bangladesh | Year: 2021   
-
-**Higher Secondary Certificate (HSC)**  
-Cantonment Public School and College, Rangpur, Bangladesh | Year: 2014   
-
 ## **Experience**
 **Research Assistant**  
 BRAC University
@@ -30,6 +23,14 @@ BRAC University
 
 ## **Research Interest**
 Large Language Models (LLMs), Natural Language Processing (NLP), Generative AI, Computer Vision, Vision Language Models (VLMs) 
+
+## **Academic Background**
+**Bachelor of Science (BSc) in Electrical and Electronic Engineering**  
+BRAC University, Dhaka, Bangladesh | Year: 2021
+
+**Higher Secondary Certificate (HSC)**  
+Cantonment Public School and College, Rangpur, Bangladesh | Year: 2014
+
 
 ## **Certifications**
 ### **IBM AI Engineering Specialization**  
