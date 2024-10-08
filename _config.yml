@@ -23,7 +23,7 @@ theme                    : jekyll-theme-minimal # Change the theme as per your p
 author:
   # Biographic information
   avatar           : "piash.jpg"
-  name             : "Ashaduzzaman Sarker"
+  name             : #"Ashaduzzaman Sarker"
   # pronouns         : # example: "she/her"  
   bio              : "AI/ML Researcher"
   location         : "Dhaka, Bangladesh"
