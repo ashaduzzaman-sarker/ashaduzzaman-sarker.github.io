@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello! I’m Ashaduzzman Sarker, a dedicated and technically adept professional with a deep passion for Artificial Intelligence, Data Science, and Machine Learning. My expertise spans Large Language Models (LLMs), Generative AI, Natural Language Processing (NLP), Computer Vision, and Multimodal Vision-Language Models. I aim to apply my skills to create innovative and impactful solutions in AI research and real-world applications.
+Hello! I’m **Ashad**, a dedicated and technically adept professional with a deep passion for Artificial Intelligence, Data Science, and Machine Learning. My expertise spans Large Language Models (LLMs), Generative AI, Natural Language Processing (NLP), Computer Vision, and Multimodal Vision-Language Models. I aim to apply my skills to create innovative and impactful solutions in AI/ML research and real-world applications.
 
 
 ## **Academic Background**
@@ -29,7 +29,7 @@ BRAC University
 - _Addressing Climate Change and Plastic Waste in Bangladesh's Garment Industry_ – [Link](https://ced.bracu.ac.bd/accpw/)
 
 ## **Research Interest**
-Large Language Models (LLMs) | Natural Language Processing (NLP) | Generative AI | Computer Vision | Vision Language Models (VLMs) 
+Large Language Models (LLMs), Natural Language Processing (NLP), Generative AI, Computer Vision, Vision Language Models (VLMs) 
 
 ## **Certifications**
 ### **IBM AI Engineering Specialization**  
